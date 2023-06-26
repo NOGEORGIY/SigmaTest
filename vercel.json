@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "name": "name-of-your-vercel-app",
+  "name": "my_sigma!!",
   "builds": [
     { "src": "script.js", "use": "@vercel/node" }
   ],
