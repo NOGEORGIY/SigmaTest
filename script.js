@@ -5,7 +5,6 @@ const port = 8010;
 
 const requestListener = function (req, res) {
     res.writeHead(200);
-    res.setHeader('Content-Type', 'text/plain')
     res.end('Hello World!!\n');
 };
 
